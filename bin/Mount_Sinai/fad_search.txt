@@ -1,0 +1,32 @@
+Hand Surgery,10003
+Interventional Cardiology,10033,
+Cancer (Oncology),11234
+Bariatric Surgery,10029
+Endocrine, Diabetes and Bone Diseases (Endocrinology),33401
+Kidney / Pancreas Transplantation,10029
+Dermatopathology - Dermatology,1065
+Adult Congenital Heart Disease,10029
+Child Neurology,10029
+Pediatric Neurology,10003
+Childand Adolescent Psychiatry,10016
+Endocrine, Diabetes and Bone Diseases (Endocrinology),33401
+Kidney / Pancreas Transplantation,10029
+Dermatopathology - Dermatology,1065
+Adult Congenital Heart Disease,10029
+Child Neurology,10029
+Pediatric Neurology,10003
+Childand Adolescent Psychiatry,10016
+Endocrine, Diabetes and Bone Diseases (Endocrinology),33401
+Kidney / Pancreas Transplantation,10029
+Dermatopathology - Dermatology,1065
+Adult Congenital Heart Disease,10029
+Child Neurology,10029
+Pediatric Neurology,10003
+Childand Adolescent Psychiatry,10016
+Endocrine, Diabetes and Bone Diseases (Endocrinology),33401
+Kidney / Pancreas Transplantation,10029
+Dermatopathology - Dermatology,1065
+Adult Congenital Heart Disease,10029
+Child Neurology,10029
+Pediatric Neurology,10003
+Childand Adolescent Psychiatry,10016
