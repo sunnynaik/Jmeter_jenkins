@@ -1,0 +1,701 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1667994109469,1316,https://www.mountsinai.org/5,200,OK,Search-Mount_Sinai 1-5,text,true,,225430,498,10,10,https://www.mountsinai.org/,1273,0,915
+1667994109858,991,https://www.mountsinai.org/7,200,OK,Search-Mount_Sinai 1-7,text,true,,225431,498,10,10,https://www.mountsinai.org/,909,0,559
+1667994109777,1142,https://www.mountsinai.org/4,200,OK,Search-Mount_Sinai 1-4,text,true,,225491,498,10,10,https://www.mountsinai.org/,983,0,555
+1667994109204,1637,https://www.mountsinai.org/2,200,OK,Search-Mount_Sinai 1-2,text,true,,225430,498,10,10,https://www.mountsinai.org/,1589,0,1144
+1667994109517,1382,https://www.mountsinai.org/1,200,OK,Search-Mount_Sinai 1-1,text,true,,225430,498,10,10,https://www.mountsinai.org/,1215,0,875
+1667994110190,704,https://www.mountsinai.org/3,200,OK,Search-Mount_Sinai 1-3,text,true,,225430,498,10,10,https://www.mountsinai.org/,696,0,188
+1667994109459,1283,https://www.mountsinai.org/6,200,OK,Search-Mount_Sinai 1-6,text,true,,225430,498,10,10,https://www.mountsinai.org/,1253,0,935
+1667994110651,467,https://www.mountsinai.org/10,200,OK,Search-Mount_Sinai 1-10,text,true,,225430,498,10,10,https://www.mountsinai.org/,428,0,55
+1667994110928,293,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,293,0,0
+1667994110946,284,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,284,0,0
+1667994110975,272,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,272,0,0
+1667994110991,279,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1320,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,279,0,0
+1667994110966,307,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,307,0,0
+1667994110978,310,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,309,0,0
+1667994110958,341,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,341,0,0
+1667994111121,278,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,278,0,0
+1667994110427,1001,https://www.mountsinai.org/8,200,OK,Search-Mount_Sinai 1-8,text,true,,225491,498,10,10,https://www.mountsinai.org/,962,0,52
+1667994110435,1017,https://www.mountsinai.org/9,200,OK,Search-Mount_Sinai 1-9,text,true,,225430,498,10,10,https://www.mountsinai.org/,908,0,59
+1667994111455,278,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,278,0,0
+1667994111434,309,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,309,0,0
+1667994112874,1554,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology - Dermatology&type=specialty&zip-code=10657,200,OK,Search-Mount_Sinai 1-7,text,true,,27030,1374,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology%20-%20Dermatology&type=specialty&zip-code=1065,1443,0,950
+1667994112615,1852,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code= Diabetes and Bone Diseases (Endocrinology)5,200,OK,Search-Mount_Sinai 1-5,text,true,,27024,1398,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code=%20Diabetes%20and%20Bone%20Diseases%20(Endocrinology),1741,0,1224
+1667994114431,308,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,308,0,0
+1667994094406,3137,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-7,,true,,255103,3941,10,10,null,2944,17198,1509
+1667994114746,3,Debug Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,442,0,10,10,null,0,0,0
+1667994114749,8,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,0,0,10,10,null,0,0,0
+1667994114469,444,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,444,0,0
+1667994094270,3905,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-5,,true,,255096,3965,10,10,null,3751,16737,2139
+1667994114914,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,460,0,10,10,null,0,0,0
+1667994114914,2,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,0,0,10,10,null,0,0,0
+1667994112709,2442,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric Neurology&type=specialty&zip-code=1000310,200,OK,Search-Mount_Sinai 1-10,text,true,,157798,1362,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric%20Neurology&type=specialty&zip-code=10003,1961,0,1129
+1667994115152,281,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,281,0,0
+1667994094684,3468,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-10,,true,,385870,3929,10,10,null,2948,17281,1184
+1667994115434,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,433,0,10,10,null,0,0,0
+1667994115434,5,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,0,0,10,10,null,0,0,0
+1667994115126,2261,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Hand Surgery&type=specialty&zip-code=100031,200,OK,Search-Mount_Sinai 1-1,text,true,,177416,1355,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Hand%20Surgery&type=specialty&zip-code=10003,1542,0,789
+1667994117394,396,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,396,0,0
+1667994094023,4311,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-1,,true,,405488,3922,10,10,null,3425,19457,1664
+1667994117792,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,425,0,10,10,null,0,0,0
+1667994117793,2,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,0,0,10,10,null,0,0,0
+1667994117886,1640,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult Congenital Heart Disease&type=specialty&zip-code=100298,200,OK,Search-Mount_Sinai 1-8,text,true,,85848,1377,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult%20Congenital%20Heart%20Disease&type=specialty&zip-code=10029,1269,0,786
+1667994117511,2245,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Cancer (Oncology)&type=specialty&zip-code=112343,200,OK,Search-Mount_Sinai 1-3,text,true,,196732,1360,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Cancer%20(Oncology)&type=specialty&zip-code=11234,1309,0,812
+1667994119531,363,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,363,0,0
+1667994094500,3313,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-8,,true,,313981,3944,10,10,null,2903,22079,838
+1667994119894,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,443,0,10,10,null,0,0,0
+1667994119900,5,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,0,0,10,10,null,0,0,0
+1667994119759,319,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,319,0,0
+1667994094145,3578,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-3,,true,,424804,3927,10,10,null,2633,22355,1000
+1667994120081,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,430,0,10,10,null,0,0,0
+1667994120081,8,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,0,0,10,10,null,0,0,0
+1667994122286,2310,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney / Pancreas Transplantation&type=specialty&zip-code=100296,200,OK,Search-Mount_Sinai 1-6,text,true,,212116,1380,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney%20/%20Pancreas%20Transplantation&type=specialty&zip-code=10029,1343,0,822
+1667994124596,281,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,281,0,0
+1667994094317,4153,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-6,,true,,440187,3947,10,10,null,3156,26407,1757
+1667994124878,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,446,0,10,10,null,0,0,0
+1667994124881,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,0,0,10,10,null,0,0,0
+1667994122083,3227,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Bariatric Surgery&type=specialty&zip-code=100294,200,OK,Search-Mount_Sinai 1-4,text,true,,440897,1360,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Bariatric%20Surgery&type=specialty&zip-code=10029,1753,0,822
+1667994125311,400,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1322,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,400,0,0
+1667994094216,5110,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-4,,true,,669031,3927,10,10,null,3477,26384,1377
+1667994125711,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,430,0,10,10,null,0,0,0
+1667994125711,3,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,0,0,10,10,null,0,0,0
+1667994124899,1653,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child Neurology&type=specialty&zip-code=100299,200,OK,Search-Mount_Sinai 1-9,text,true,,97484,1358,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child%20Neurology&type=specialty&zip-code=10029,1281,0,791
+1667994126554,393,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,393,0,0
+1667994094592,3341,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-9,,true,,325556,3925,10,10,null,2860,29014,850
+1667994126948,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,428,0,10,10,null,0,0,0
+1667994126948,2,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,0,0,10,10,null,0,0,0
+1667994127081,2349,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Interventional Cardiology&type=specialty&zip-code=100332,200,OK,Search-Mount_Sinai 1-2,text,true,,252717,1368,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Interventional%20Cardiology&type=specialty&zip-code=10033,1581,0,798
+1667994129432,290,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,290,0,0
+1667994094066,4583,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-2,,true,,480789,3935,10,10,null,3767,31071,1942
+1667994129722,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,437,0,10,10,null,0,0,0
+1667994129723,5,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,0,0,10,10,null,0,0,0
+1667994130521,537,https://www.mountsinai.org/7,200,OK,Search-Mount_Sinai 1-7,text,true,,225418,498,10,10,https://www.mountsinai.org/,497,0,53
+1667994130564,506,https://www.mountsinai.org/5,200,OK,Search-Mount_Sinai 1-5,text,true,,225491,498,10,10,https://www.mountsinai.org/,468,0,46
+1667994131073,277,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,277,0,0
+1667994131060,308,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,307,0,0
+1667994131131,452,https://www.mountsinai.org/10,200,OK,Search-Mount_Sinai 1-10,text,true,,225491,498,10,10,https://www.mountsinai.org/,422,0,48
+1667994131586,407,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,407,0,0
+1667994133600,481,https://www.mountsinai.org/1,200,OK,Search-Mount_Sinai 1-1,text,true,,225430,498,10,10,https://www.mountsinai.org/,443,0,51
+1667994134084,281,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,281,0,0
+1667994134466,1205,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand Adolescent Psychiatry&type=specialty&zip-code=100167,500,Internal Server Error,Search-Mount_Sinai 1-7,text,false,No doctor found,4594,1375,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand%20Adolescent%20Psychiatry&type=specialty&zip-code=10016,1205,0,824
+1667994135677,314,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,314,0,0
+1667994114757,2364,FAD-Search-Mount_Sinai,,"Number of samples in transaction : 6, number of failing samples : 1",Search-Mount_Sinai 1-7,,false,,232654,3942,10,10,null,2323,18869,877
+1667994135992,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,443,0,10,10,null,0,0,0
+1667994135992,18,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,0,0,10,10,null,0,0,0
+1667994135526,530,https://www.mountsinai.org/8,200,OK,Search-Mount_Sinai 1-8,text,true,,225491,498,10,10,https://www.mountsinai.org/,423,0,44
+1667994136060,281,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,280,0,0
+1667994136026,472,https://www.mountsinai.org/3,200,OK,Search-Mount_Sinai 1-3,text,true,,225491,498,10,10,https://www.mountsinai.org/,434,0,49
+1667994136501,332,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,332,0,0
+1667994136632,2316,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney / Pancreas Transplantation&type=specialty&zip-code=1002910,200,OK,Search-Mount_Sinai 1-10,text,true,,212116,1380,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney%20/%20Pancreas%20Transplantation&type=specialty&zip-code=10029,1337,0,824
+1667994138950,311,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,311,0,0
+1667994115440,3486,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-10,,true,,440249,3947,10,10,null,2477,20335,872
+1667994139262,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,447,0,10,10,null,0,0,0
+1667994139262,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,0,0,10,10,null,0,0,0
+1667994138386,1413,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code= Diabetes and Bone Diseases (Endocrinology)5,200,OK,Search-Mount_Sinai 1-5,text,true,,27024,1398,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code=%20Diabetes%20and%20Bone%20Diseases%20(Endocrinology),1359,0,848
+1667994139802,559,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,559,0,0
+1667994114917,2755,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-5,,true,,255157,3965,10,10,null,2663,22688,894
+1667994140361,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,460,0,10,10,null,0,0,0
+1667994140361,4,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,0,0,10,10,null,0,0,0
+1667994140359,476,https://www.mountsinai.org/6,200,OK,Search-Mount_Sinai 1-6,text,true,,225444,498,10,10,https://www.mountsinai.org/,425,0,84
+1667994140838,306,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,306,0,0
+1667994141054,562,https://www.mountsinai.org/4,200,OK,Search-Mount_Sinai 1-4,text,true,,225372,498,10,10,https://www.mountsinai.org/,510,0,98
+1667994141619,326,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,326,0,0
+1667994142519,486,https://www.mountsinai.org/9,200,OK,Search-Mount_Sinai 1-9,text,true,,225360,498,10,10,https://www.mountsinai.org/,444,0,74
+1667994143008,325,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,325,0,0
+1667994145226,537,https://www.mountsinai.org/2,200,OK,Search-Mount_Sinai 1-2,text,true,,225360,498,10,10,https://www.mountsinai.org/,485,0,79
+1667994145775,319,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,318,0,0
+1667994145125,1363,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code= Diabetes and Bone Diseases (Endocrinology)9,200,OK,Search-Mount_Sinai 1-9,text,true,,27024,1398,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code=%20Diabetes%20and%20Bone%20Diseases%20(Endocrinology),1314,0,809
+1667994146489,329,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,329,0,0
+1667994126950,2503,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-9,,true,,255026,3965,10,10,null,2412,17363,883
+1667994146819,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,460,0,10,10,null,0,0,0
+1667994146819,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,0,0,10,10,null,0,0,0
+1667994146771,1964,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric Neurology&type=specialty&zip-code=100036,200,OK,Search-Mount_Sinai 1-6,text,true,,157798,1362,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric%20Neurology&type=specialty&zip-code=10003,1475,0,811
+1667994148739,319,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,319,0,0
+1667994124884,3065,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-6,,true,,385884,3929,10,10,null,2525,21107,895
+1667994149059,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,432,0,10,10,null,0,0,0
+1667994149059,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,0,0,10,10,null,0,0,0
+1667994149366,1312,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology - Dermatology&type=specialty&zip-code=10651,200,OK,Search-Mount_Sinai 1-1,text,true,,27030,1374,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology%20-%20Dermatology&type=specialty&zip-code=1065,1275,0,784
+1667994149445,1652,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult Congenital Heart Disease&type=specialty&zip-code=100298,200,OK,Search-Mount_Sinai 1-8,text,true,,85848,1377,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult%20Congenital%20Heart%20Disease&type=specialty&zip-code=10029,1280,0,787
+1667994150684,477,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,477,0,0
+1667994117795,2551,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-1,,true,,255102,3941,10,10,null,2476,30813,835
+1667994151164,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,442,0,10,10,null,0,0,0
+1667994151165,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,0,0,10,10,null,0,0,0
+1667994149685,1621,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child Neurology&type=specialty&zip-code=100293,200,OK,Search-Mount_Sinai 1-3,text,true,,97484,1358,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child%20Neurology&type=specialty&zip-code=10029,1259,0,778
+1667994151098,307,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,307,0,0
+1667994119905,2770,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-8,,true,,313981,3944,10,10,null,2290,28729,831
+1667994151405,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,443,0,10,10,null,0,0,0
+1667994151406,3,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,0,0,10,10,null,0,0,0
+1667994151307,323,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,323,0,0
+1667994120091,2748,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-3,,true,,325617,3925,10,10,null,2348,28796,827
+1667994151638,5,Debug Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,428,0,10,10,null,0,0,0
+1667994151644,11,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,0,0,10,10,null,0,0,0
+1667994151416,525,https://www.mountsinai.org/7,200,OK,Search-Mount_Sinai 1-7,text,true,,225421,498,10,10,https://www.mountsinai.org/,475,0,83
+1667994151944,883,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,883,0,0
+1667994154720,518,https://www.mountsinai.org/10,200,OK,Search-Mount_Sinai 1-10,text,true,,225433,498,10,10,https://www.mountsinai.org/,468,0,83
+1667994153284,2201,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney / Pancreas Transplantation&type=specialty&zip-code=100292,200,OK,Search-Mount_Sinai 1-2,text,true,,212116,1380,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney%20/%20Pancreas%20Transplantation&type=specialty&zip-code=10029,1280,0,790
+1667994155241,308,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,308,0,0
+1667994155486,338,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,338,0,0
+1667994129729,3395,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-2,,true,,440118,3947,10,10,null,2421,22700,869
+1667994155825,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,445,0,10,10,null,0,0,0
+1667994155826,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,0,0,10,10,null,0,0,0
+1667994155208,1183,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand Adolescent Psychiatry&type=specialty&zip-code=100164,500,Internal Server Error,Search-Mount_Sinai 1-4,text,false,No doctor found,4594,1375,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand%20Adolescent%20Psychiatry&type=specialty&zip-code=10016,1183,0,823
+1667994156002,550,https://www.mountsinai.org/5,200,OK,Search-Mount_Sinai 1-5,text,true,,225372,498,10,10,https://www.mountsinai.org/,442,0,78
+1667994156392,376,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,376,0,0
+1667994125714,2447,FAD-Search-Mount_Sinai,,"Number of samples in transaction : 6, number of failing samples : 1",Search-Mount_Sinai 1-4,,false,,232608,3942,10,10,null,2395,28606,921
+1667994156769,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,443,0,10,10,null,0,0,0
+1667994156769,9,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,0,0,10,10,null,0,0,0
+1667994156556,311,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,311,0,0
+1667994159610,1285,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology - Dermatology&type=specialty&zip-code=10657,200,OK,Search-Mount_Sinai 1-7,text,true,,27030,1374,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology%20-%20Dermatology&type=specialty&zip-code=1065,1241,0,763
+1667994160896,350,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,350,0,0
+1667994136010,3043,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-7,,true,,255093,3941,10,10,null,2949,22192,846
+1667994161246,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,442,0,10,10,null,0,0,0
+1667994161247,0,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,0,0,10,10,null,0,0,0
+1667994161851,576,https://www.mountsinai.org/9,200,OK,Search-Mount_Sinai 1-9,text,true,,225433,498,10,10,https://www.mountsinai.org/,520,0,92
+1667994162430,345,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,345,0,0
+1667994164786,501,https://www.mountsinai.org/6,200,OK,Search-Mount_Sinai 1-6,text,true,,225421,498,10,10,https://www.mountsinai.org/,447,0,79
+1667994165289,312,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,312,0,0
+1667994164547,2038,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric Neurology&type=specialty&zip-code=100039,200,OK,Search-Mount_Sinai 1-9,text,true,,157798,1362,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric%20Neurology&type=specialty&zip-code=10003,1337,0,823
+1667994164851,1788,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult Congenital Heart Disease&type=specialty&zip-code=1002910,200,OK,Search-Mount_Sinai 1-10,text,true,,85848,1377,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult%20Congenital%20Heart%20Disease&type=specialty&zip-code=10029,1364,0,840
+1667994166640,312,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,312,0,0
+1667994139264,2926,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-10,,true,,313923,3944,10,10,null,2452,24760,923
+1667994166952,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,444,0,10,10,null,0,0,0
+1667994166952,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,0,0,10,10,null,0,0,0
+1667994166586,372,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,372,0,0
+1667994146821,3331,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-9,,true,,385873,3929,10,10,null,2574,16805,915
+1667994166958,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,432,0,10,10,null,0,0,0
+1667994166959,0,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,0,0,10,10,null,0,0,0
+1667994165584,1685,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child Neurology&type=specialty&zip-code=100295,200,OK,Search-Mount_Sinai 1-5,text,true,,97484,1358,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child%20Neurology&type=specialty&zip-code=10029,1312,0,810
+1667994166918,568,https://www.mountsinai.org/1,200,OK,Search-Mount_Sinai 1-1,text,true,,225372,498,10,10,https://www.mountsinai.org/,496,0,90
+1667994167270,359,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,359,0,0
+1667994140366,2905,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-5,,true,,325498,3925,10,10,null,2424,24356,888
+1667994167629,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,428,0,10,10,null,0,0,0
+1667994167629,2,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,0,0,10,10,null,0,0,0
+1667994166750,1057,https://www.mountsinai.org/8,200,OK,Search-Mount_Sinai 1-8,text,true,,225433,498,10,10,https://www.mountsinai.org/,1005,0,78
+1667994167317,495,https://www.mountsinai.org/3,200,OK,Search-Mount_Sinai 1-3,text,true,,225372,498,10,10,https://www.mountsinai.org/,445,0,80
+1667994167816,313,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,313,0,0
+1667994167811,373,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,373,0,0
+1667994167489,823,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,822,0,0
+1667994169274,1327,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology - Dermatology&type=specialty&zip-code=10653,200,OK,Search-Mount_Sinai 1-3,text,true,,27030,1374,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology%20-%20Dermatology&type=specialty&zip-code=1065,1276,0,783
+1667994170602,318,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,318,0,0
+1667994151655,2453,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-3,,true,,255044,3941,10,10,null,2352,16812,863
+1667994170921,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,442,0,10,10,null,0,0,0
+1667994170921,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,0,0,10,10,null,0,0,0
+1667994171645,458,https://www.mountsinai.org/2,200,OK,Search-Mount_Sinai 1-2,text,true,,225430,498,10,10,https://www.mountsinai.org/,427,0,97
+1667994172111,289,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,289,0,0
+1667994172350,449,https://www.mountsinai.org/4,200,OK,Search-Mount_Sinai 1-4,text,true,,225430,498,10,10,https://www.mountsinai.org/,421,0,48
+1667994172802,281,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,280,0,0
+1667994172871,2277,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney / Pancreas Transplantation&type=specialty&zip-code=100298,200,OK,Search-Mount_Sinai 1-8,text,true,,212116,1380,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney%20/%20Pancreas%20Transplantation&type=specialty&zip-code=10029,1325,0,820
+1667994175149,313,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,313,0,0
+1667994151410,4020,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-8,,true,,440191,3947,10,10,null,3016,20032,898
+1667994175463,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,446,0,10,10,null,0,0,0
+1667994175463,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,0,0,10,10,null,0,0,0
+1667994177010,451,https://www.mountsinai.org/7,200,OK,Search-Mount_Sinai 1-7,text,true,,225430,498,10,10,https://www.mountsinai.org/,391,0,51
+1667994177464,382,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,382,0,0
+1667994177065,1172,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand Adolescent Psychiatry&type=specialty&zip-code=100166,500,Internal Server Error,Search-Mount_Sinai 1-6,text,false,No doctor found,4594,1375,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand%20Adolescent%20Psychiatry&type=specialty&zip-code=10016,1171,0,826
+1667994178714,1352,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code= Diabetes and Bone Diseases (Endocrinology)1,200,OK,Search-Mount_Sinai 1-1,text,true,,27024,1398,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code=%20Diabetes%20and%20Bone%20Diseases%20(Endocrinology),1330,0,816
+1667994180073,390,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,390,0,0
+1667994151167,3133,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-1,,true,,255038,3965,10,10,null,3038,26162,906
+1667994180464,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,460,0,10,10,null,0,0,0
+1667994180464,2,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,0,0,10,10,null,0,0,0
+1667994179413,2091,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric Neurology&type=specialty&zip-code=100037,200,OK,Search-Mount_Sinai 1-7,text,true,,157798,1362,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric%20Neurology&type=specialty&zip-code=10003,1418,0,899
+1667994181505,280,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,280,0,0
+1667994161248,3204,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-7,,true,,385870,3929,10,10,null,2471,17332,950
+1667994181786,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,432,0,10,10,null,0,0,0
+1667994181786,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,0,0,10,10,null,0,0,0
+1667994182343,434,https://www.mountsinai.org/9,200,OK,Search-Mount_Sinai 1-9,text,true,,225430,498,10,10,https://www.mountsinai.org/,397,0,68
+1667994182779,296,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,295,0,0
+1667994182738,446,https://www.mountsinai.org/10,200,OK,Search-Mount_Sinai 1-10,text,true,,225430,498,10,10,https://www.mountsinai.org/,405,0,49
+1667994183188,312,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,312,0,0
+1667994178237,5335,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1323,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,5334,0,0
+1667994149060,7320,FAD-Search-Mount_Sinai,,"Number of samples in transaction : 6, number of failing samples : 1",Search-Mount_Sinai 1-6,,false,,232659,3942,10,10,null,7264,27191,905
+1667994183573,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,443,0,10,10,null,0,0,0
+1667994183573,2,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,0,0,10,10,null,0,0,0
+1667994183373,479,https://www.mountsinai.org/5,200,OK,Search-Mount_Sinai 1-5,text,true,,225430,498,10,10,https://www.mountsinai.org/,437,0,52
+1667994182426,1677,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult Congenital Heart Disease&type=specialty&zip-code=100292,200,OK,Search-Mount_Sinai 1-2,text,true,,85848,1377,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult%20Congenital%20Heart%20Disease&type=specialty&zip-code=10029,1291,0,798
+1667994183855,314,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,314,0,0
+1667994184103,311,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,311,0,0
+1667994155827,2735,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-2,,true,,313920,3944,10,10,null,2318,25851,895
+1667994184415,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,442,0,10,10,null,0,0,0
+1667994184415,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,0,0,10,10,null,0,0,0
+1667994184882,1178,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand Adolescent Psychiatry&type=specialty&zip-code=1001610,500,Internal Server Error,Search-Mount_Sinai 1-10,text,false,No doctor found,4594,1375,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand%20Adolescent%20Psychiatry&type=specialty&zip-code=10016,1178,0,824
+1667994186060,280,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,280,0,0
+1667994166954,2216,FAD-Search-Mount_Sinai,,"Number of samples in transaction : 6, number of failing samples : 1",Search-Mount_Sinai 1-10,,false,,232666,3942,10,10,null,2175,17171,873
+1667994186341,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,444,0,10,10,null,0,0,0
+1667994186341,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,0,0,10,10,null,0,0,0
+1667994186366,776,https://www.mountsinai.org/3,200,OK,Search-Mount_Sinai 1-3,text,true,,225491,498,10,10,https://www.mountsinai.org/,537,0,54
+1667994185703,1778,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child Neurology&type=specialty&zip-code=100294,200,OK,Search-Mount_Sinai 1-4,text,true,,97484,1358,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child%20Neurology&type=specialty&zip-code=10029,1374,0,847
+1667994187144,356,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,356,0,0
+1667994187482,276,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,276,0,0
+1667994156779,2784,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-4,,true,,325556,3925,10,10,null,2351,28195,895
+1667994187759,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,428,0,10,10,null,0,0,0
+1667994187759,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,0,0,10,10,null,0,0,0
+1667994191246,440,https://www.mountsinai.org/8,200,OK,Search-Mount_Sinai 1-8,text,true,,225491,498,10,10,https://www.mountsinai.org/,411,0,46
+1667994191689,317,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,317,0,0
+1667994191245,2452,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Cancer (Oncology)&type=specialty&zip-code=112343,200,OK,Search-Mount_Sinai 1-3,text,true,,196732,1360,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Cancer%20(Oncology)&type=specialty&zip-code=11234,1422,0,893
+1667994193698,321,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,321,0,0
+1667994170922,3905,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-3,,true,,424865,3927,10,10,null,2636,19191,947
+1667994194020,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,430,0,10,10,null,0,0,0
+1667994194020,0,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,0,0,10,10,null,0,0,0
+1667994191493,2548,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Interventional Cardiology&type=specialty&zip-code=100335,200,OK,Search-Mount_Sinai 1-5,text,true,,252717,1368,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Interventional%20Cardiology&type=specialty&zip-code=10033,1544,0,798
+1667994194041,288,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,288,0,0
+1667994167631,3629,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-5,,true,,480789,3935,10,10,null,2583,23068,850
+1667994194329,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,438,0,10,10,null,0,0,0
+1667994194329,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,0,0,10,10,null,0,0,0
+1667994193357,2269,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Hand Surgery&type=specialty&zip-code=100039,200,OK,Search-Mount_Sinai 1-9,text,true,,177416,1355,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Hand%20Surgery&type=specialty&zip-code=10003,1548,0,795
+1667994195474,455,https://www.mountsinai.org/1,200,OK,Search-Mount_Sinai 1-1,text,true,,225490,498,10,10,https://www.mountsinai.org/,419,0,56
+1667994195627,330,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,330,0,0
+1667994166963,3329,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-9,,true,,405488,3922,10,10,null,2570,25664,863
+1667994195958,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,425,0,10,10,null,0,0,0
+1667994195958,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,0,0,10,10,null,0,0,0
+1667994195931,331,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,331,0,0
+1667994197148,444,https://www.mountsinai.org/7,200,OK,Search-Mount_Sinai 1-7,text,true,,225429,498,10,10,https://www.mountsinai.org/,414,0,46
+1667994197594,346,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,346,0,0
+1667994199334,514,https://www.mountsinai.org/6,200,OK,Search-Mount_Sinai 1-6,text,true,,225430,498,10,10,https://www.mountsinai.org/,468,0,52
+1667994199851,288,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,288,0,0
+1667994199723,482,https://www.mountsinai.org/2,200,OK,Search-Mount_Sinai 1-2,text,true,,225430,498,10,10,https://www.mountsinai.org/,432,0,57
+1667994200207,279,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,279,0,0
+1667994201720,476,https://www.mountsinai.org/10,200,OK,Search-Mount_Sinai 1-10,text,true,,225515,498,10,10,https://www.mountsinai.org/,446,0,82
+1667994202203,281,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,281,0,0
+1667994199901,3294,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Bariatric Surgery&type=specialty&zip-code=100298,200,OK,Search-Mount_Sinai 1-8,text,true,,440897,1360,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Bariatric%20Surgery&type=specialty&zip-code=10029,1752,0,814
+1667994202814,422,https://www.mountsinai.org/4,200,OK,Search-Mount_Sinai 1-4,text,true,,225430,498,10,10,https://www.mountsinai.org/,384,0,58
+1667994203195,286,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,286,0,0
+1667994175465,4337,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-8,,true,,669030,3927,10,10,null,2766,23678,860
+1667994203481,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,430,0,10,10,null,0,0,0
+1667994203482,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,0,0,10,10,null,0,0,0
+1667994203238,281,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,281,0,0
+1667994202953,1368,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology - Dermatology&type=specialty&zip-code=10656,200,OK,Search-Mount_Sinai 1-6,text,true,,27030,1374,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology%20-%20Dermatology&type=specialty&zip-code=1065,1322,0,811
+1667994204321,320,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,320,0,0
+1667994183575,2490,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-6,,true,,255102,3941,10,10,null,2398,18576,863
+1667994204641,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,442,0,10,10,null,0,0,0
+1667994204642,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,0,0,10,10,null,0,0,0
+1667994205249,1328,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code= Diabetes and Bone Diseases (Endocrinology)1,200,OK,Search-Mount_Sinai 1-1,text,true,,27024,1398,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code=%20Diabetes%20and%20Bone%20Diseases%20(Endocrinology),1237,0,763
+1667994206577,282,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,281,0,0
+1667994180466,2396,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-1,,true,,255156,3965,10,10,null,2268,23997,819
+1667994206859,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,460,0,10,10,null,0,0,0
+1667994206859,2,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,0,0,10,10,null,0,0,0
+1667994207839,1750,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child Neurology&type=specialty&zip-code=1002910,200,OK,Search-Mount_Sinai 1-10,text,true,,97484,1358,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child%20Neurology&type=specialty&zip-code=10029,1327,0,813
+1667994209591,316,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,316,0,0
+1667994186342,2823,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-10,,true,,325641,3925,10,10,null,2370,20741,895
+1667994209908,2,Debug Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,429,0,10,10,null,0,0,0
+1667994209911,2,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,0,0,10,10,null,0,0,0
+1667994209464,448,https://www.mountsinai.org/3,200,OK,Search-Mount_Sinai 1-3,text,true,,225429,498,10,10,https://www.mountsinai.org/,400,0,52
+1667994209379,683,https://www.mountsinai.org/5,200,OK,Search-Mount_Sinai 1-5,text,true,,225429,498,10,10,https://www.mountsinai.org/,632,0,55
+1667994209915,315,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,315,0,0
+1667994210065,410,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1322,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,409,0,0
+1667994211377,446,https://www.mountsinai.org/9,200,OK,Search-Mount_Sinai 1-9,text,true,,225429,498,10,10,https://www.mountsinai.org/,415,0,56
+1667994211825,308,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,308,0,0
+1667994210272,2412,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney / Pancreas Transplantation&type=specialty&zip-code=100297,200,OK,Search-Mount_Sinai 1-7,text,true,,212116,1380,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney%20/%20Pancreas%20Transplantation&type=specialty&zip-code=10029,1622,0,816
+1667994212686,313,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,313,0,0
+1667994181787,3515,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-7,,true,,440187,3947,10,10,null,2695,27697,862
+1667994213000,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,446,0,10,10,null,0,0,0
+1667994213000,2,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,0,0,10,10,null,0,0,0
+1667994213501,1373,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code= Diabetes and Bone Diseases (Endocrinology)5,200,OK,Search-Mount_Sinai 1-5,text,true,,27024,1398,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code=%20Diabetes%20and%20Bone%20Diseases%20(Endocrinology),1321,0,812
+1667994214874,279,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,279,0,0
+1667994194330,2745,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-5,,true,,255096,3965,10,10,null,2641,18078,867
+1667994215154,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,460,0,10,10,null,0,0,0
+1667994215154,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,0,0,10,10,null,0,0,0
+1667994214611,1703,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult Congenital Heart Disease&type=specialty&zip-code=100292,200,OK,Search-Mount_Sinai 1-2,text,true,,85848,1377,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult%20Congenital%20Heart%20Disease&type=specialty&zip-code=10029,1306,0,802
+1667994216315,284,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,284,0,0
+1667994184416,2748,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-2,,true,,313920,3944,10,10,null,2301,29433,859
+1667994216599,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,442,0,10,10,null,0,0,0
+1667994216600,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,0,0,10,10,null,0,0,0
+1667994218040,1143,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand Adolescent Psychiatry&type=specialty&zip-code=100163,500,Internal Server Error,Search-Mount_Sinai 1-3,text,false,No doctor found,4594,1375,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand%20Adolescent%20Psychiatry&type=specialty&zip-code=10016,1143,0,795
+1667994219183,299,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,299,0,0
+1667994194021,2205,FAD-Search-Mount_Sinai,,"Number of samples in transaction : 6, number of failing samples : 1",Search-Mount_Sinai 1-3,,false,,232665,3942,10,10,null,2157,23256,847
+1667994219483,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,443,0,10,10,null,0,0,0
+1667994219483,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,0,0,10,10,null,0,0,0
+1667994217531,2100,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric Neurology&type=specialty&zip-code=100034,200,OK,Search-Mount_Sinai 1-4,text,true,,157798,1362,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric%20Neurology&type=specialty&zip-code=10003,1380,0,869
+1667994219459,403,https://www.mountsinai.org/8,200,OK,Search-Mount_Sinai 1-8,text,true,,225430,498,10,10,https://www.mountsinai.org/,361,0,43
+1667994219632,336,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,336,0,0
+1667994187760,3139,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-4,,true,,385870,3929,10,10,null,2381,29069,927
+1667994219970,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,432,0,10,10,null,0,0,0
+1667994219970,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,0,0,10,10,null,0,0,0
+1667994219864,277,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,277,0,0
+1667994220546,479,https://www.mountsinai.org/6,200,OK,Search-Mount_Sinai 1-6,text,true,,225430,498,10,10,https://www.mountsinai.org/,406,0,48
+1667994221027,304,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,304,0,0
+1667994221941,437,https://www.mountsinai.org/1,200,OK,Search-Mount_Sinai 1-1,text,true,,225430,498,10,10,https://www.mountsinai.org/,406,0,43
+1667994222380,307,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,307,0,0
+1667994224937,447,https://www.mountsinai.org/10,200,OK,Search-Mount_Sinai 1-10,text,true,,225503,498,10,10,https://www.mountsinai.org/,417,0,45
+1667994225387,278,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,278,0,0
+1667994223639,2285,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney / Pancreas Transplantation&type=specialty&zip-code=100299,200,OK,Search-Mount_Sinai 1-9,text,true,,212116,1380,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney%20/%20Pancreas%20Transplantation&type=specialty&zip-code=10029,1565,0,787
+1667994225925,316,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,316,0,0
+1667994195959,3355,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-9,,true,,440187,3947,10,10,null,2604,26926,843
+1667994226241,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,446,0,10,10,null,0,0,0
+1667994226241,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,0,0,10,10,null,0,0,0
+1667994224690,1658,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult Congenital Heart Disease&type=specialty&zip-code=100296,200,OK,Search-Mount_Sinai 1-6,text,true,,85848,1377,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult%20Congenital%20Heart%20Disease&type=specialty&zip-code=10029,1240,0,762
+1667994226349,288,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,288,0,0
+1667994204644,2729,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-6,,true,,313920,3944,10,10,null,2238,19263,810
+1667994226638,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,443,0,10,10,null,0,0,0
+1667994226638,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,0,0,10,10,null,0,0,0
+1667994225537,1723,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child Neurology&type=specialty&zip-code=100291,200,OK,Search-Mount_Sinai 1-1,text,true,,97484,1358,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child%20Neurology&type=specialty&zip-code=10029,1321,0,808
+1667994227261,337,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,337,0,0
+1667994206861,2804,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-1,,true,,325556,3925,10,10,null,2371,17932,851
+1667994227598,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,428,0,10,10,null,0,0,0
+1667994227598,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,0,0,10,10,null,0,0,0
+1667994226859,1414,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology - Dermatology&type=specialty&zip-code=10658,200,OK,Search-Mount_Sinai 1-8,text,true,,27030,1374,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology%20-%20Dermatology&type=specialty&zip-code=1065,1319,0,814
+1667994228273,309,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,309,0,0
+1667994203483,2403,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-8,,true,,255102,3941,10,10,null,2266,22695,857
+1667994228584,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,442,0,10,10,null,0,0,0
+1667994228584,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,0,0,10,10,null,0,0,0
+1667994228507,428,https://www.mountsinai.org/7,200,OK,Search-Mount_Sinai 1-7,text,true,,225430,498,10,10,https://www.mountsinai.org/,398,0,43
+1667994228938,288,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,287,0,0
+1667994230792,419,https://www.mountsinai.org/5,200,OK,Search-Mount_Sinai 1-5,text,true,,225430,498,10,10,https://www.mountsinai.org/,373,0,61
+1667994231213,307,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,307,0,0
+1667994229651,2030,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric Neurology&type=specialty&zip-code=1000310,200,OK,Search-Mount_Sinai 1-10,text,true,,157798,1362,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric%20Neurology&type=specialty&zip-code=10003,1298,0,787
+1667994231682,312,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,312,0,0
+1667994209914,3067,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-10,,true,,385943,3929,10,10,null,2305,19014,832
+1667994231995,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,433,0,10,10,null,0,0,0
+1667994231996,0,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,0,0,10,10,null,0,0,0
+1667994232002,1057,https://www.mountsinai.org/2,200,OK,Search-Mount_Sinai 1-2,text,true,,225431,498,10,10,https://www.mountsinai.org/,1023,0,86
+1667994233062,348,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,348,0,0
+1667994234023,1228,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand Adolescent Psychiatry&type=specialty&zip-code=100167,500,Internal Server Error,Search-Mount_Sinai 1-7,text,false,No doctor found,4594,1375,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand%20Adolescent%20Psychiatry&type=specialty&zip-code=10016,1228,0,852
+1667994235048,436,https://www.mountsinai.org/4,200,OK,Search-Mount_Sinai 1-4,text,true,,225430,498,10,10,https://www.mountsinai.org/,406,0,47
+1667994235251,292,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,292,0,0
+1667994213002,2236,FAD-Search-Mount_Sinai,,"Number of samples in transaction : 6, number of failing samples : 1",Search-Mount_Sinai 1-7,,false,,232666,3942,10,10,null,2205,20306,895
+1667994235544,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,443,0,10,10,null,0,0,0
+1667994235544,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,0,0,10,10,null,0,0,0
+1667994235490,276,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,276,0,0
+1667994235317,496,https://www.mountsinai.org/3,200,OK,Search-Mount_Sinai 1-3,text,true,,225430,498,10,10,https://www.mountsinai.org/,450,0,55
+1667994235816,310,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,310,0,0
+1667994237137,1671,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult Congenital Heart Disease&type=specialty&zip-code=100294,200,OK,Search-Mount_Sinai 1-4,text,true,,85848,1377,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult%20Congenital%20Heart%20Disease&type=specialty&zip-code=10029,1280,0,788
+1667994238808,280,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,280,0,0
+1667994219971,2663,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-4,,true,,313920,3944,10,10,null,2242,16456,835
+1667994239091,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,443,0,10,10,null,0,0,0
+1667994239091,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,0,0,10,10,null,0,0,0
+1667994241347,455,https://www.mountsinai.org/9,200,OK,Search-Mount_Sinai 1-9,text,true,,225430,498,10,10,https://www.mountsinai.org/,416,0,60
+1667994241806,360,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,360,0,0
+1667994242056,455,https://www.mountsinai.org/6,200,OK,Search-Mount_Sinai 1-6,text,true,,225430,498,10,10,https://www.mountsinai.org/,426,0,59
+1667994242513,326,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,326,0,0
+1667994243162,431,https://www.mountsinai.org/1,200,OK,Search-Mount_Sinai 1-1,text,true,,225430,498,10,10,https://www.mountsinai.org/,379,0,45
+1667994243595,284,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,284,0,0
+1667994244221,475,https://www.mountsinai.org/8,200,OK,Search-Mount_Sinai 1-8,text,true,,225491,498,10,10,https://www.mountsinai.org/,425,0,54
+1667994244698,312,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,311,0,0
+1667994245104,1399,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology - Dermatology&type=specialty&zip-code=10653,200,OK,Search-Mount_Sinai 1-3,text,true,,27030,1374,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology%20-%20Dermatology&type=specialty&zip-code=1065,1345,0,826
+1667994246504,298,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,298,0,0
+1667994219484,2503,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-3,,true,,255102,3941,10,10,null,2403,24814,881
+1667994246802,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,442,0,10,10,null,0,0,0
+1667994246803,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,0,0,10,10,null,0,0,0
+1667994246026,1427,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code= Diabetes and Bone Diseases (Endocrinology)5,200,OK,Search-Mount_Sinai 1-5,text,true,,27024,1398,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code=%20Diabetes%20and%20Bone%20Diseases%20(Endocrinology),1362,0,807
+1667994246529,1214,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand Adolescent Psychiatry&type=specialty&zip-code=100161,500,Internal Server Error,Search-Mount_Sinai 1-1,text,false,No doctor found,4594,1375,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand%20Adolescent%20Psychiatry&type=specialty&zip-code=10016,1214,0,807
+1667994247458,365,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,365,0,0
+1667994215155,2518,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-5,,true,,255096,3965,10,10,null,2407,30149,868
+1667994247823,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,460,0,10,10,null,0,0,0
+1667994247824,7,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,0,0,10,10,null,0,0,0
+1667994247580,399,https://www.mountsinai.org/10,200,OK,Search-Mount_Sinai 1-10,text,true,,225430,498,10,10,https://www.mountsinai.org/,371,0,43
+1667994247744,281,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,281,0,0
+1667994227599,2210,FAD-Search-Mount_Sinai,,"Number of samples in transaction : 6, number of failing samples : 1",Search-Mount_Sinai 1-1,,false,,232666,3942,10,10,null,2158,18217,852
+1667994248027,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,443,0,10,10,null,0,0,0
+1667994248027,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,0,0,10,10,null,0,0,0
+1667994245849,2244,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney / Pancreas Transplantation&type=specialty&zip-code=100292,200,OK,Search-Mount_Sinai 1-2,text,true,,212116,1380,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney%20/%20Pancreas%20Transplantation&type=specialty&zip-code=10029,1306,0,799
+1667994246413,1745,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child Neurology&type=specialty&zip-code=100299,200,OK,Search-Mount_Sinai 1-9,text,true,,97484,1358,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child%20Neurology&type=specialty&zip-code=10029,1298,0,797
+1667994248094,293,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,293,0,0
+1667994216601,3942,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-2,,true,,440189,3947,10,10,null,2970,27843,885
+1667994248388,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,445,0,10,10,null,0,0,0
+1667994248388,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,0,0,10,10,null,0,0,0
+1667994248159,282,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,282,0,0
+1667994226243,2842,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-9,,true,,325556,3925,10,10,null,2356,19355,857
+1667994248441,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,428,0,10,10,null,0,0,0
+1667994248441,2,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,0,0,10,10,null,0,0,0
+1667994247981,637,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1322,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,637,0,0
+1667994247916,1341,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code= Diabetes and Bone Diseases (Endocrinology)8,200,OK,Search-Mount_Sinai 1-8,text,true,,27024,1398,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code=%20Diabetes%20and%20Bone%20Diseases%20(Endocrinology),1296,0,797
+1667994249258,286,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,286,0,0
+1667994228585,2414,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-8,,true,,255157,3965,10,10,null,2318,18545,851
+1667994249545,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,460,0,10,10,null,0,0,0
+1667994249545,2,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,0,0,10,10,null,0,0,0
+1667994250857,551,https://www.mountsinai.org/7,200,OK,Search-Mount_Sinai 1-7,text,true,,225491,498,10,10,https://www.mountsinai.org/,498,0,53
+1667994251410,293,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,293,0,0
+1667994254342,421,https://www.mountsinai.org/4,200,OK,Search-Mount_Sinai 1-4,text,true,,226450,498,10,10,https://www.mountsinai.org/,381,0,58
+1667994254766,684,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,684,0,0
+1667994254975,2130,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric Neurology&type=specialty&zip-code=100036,200,OK,Search-Mount_Sinai 1-6,text,true,,157798,1362,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric%20Neurology&type=specialty&zip-code=10003,1372,0,843
+1667994257105,281,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,281,0,0
+1667994226639,3192,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-6,,true,,385870,3929,10,10,null,2405,27553,902
+1667994257387,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,432,0,10,10,null,0,0,0
+1667994257387,0,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,0,0,10,10,null,0,0,0
+1667994256840,2317,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney / Pancreas Transplantation&type=specialty&zip-code=1002910,200,OK,Search-Mount_Sinai 1-10,text,true,,212116,1380,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney%20/%20Pancreas%20Transplantation&type=specialty&zip-code=10029,1336,0,821
+1667994259159,334,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,334,0,0
+1667994231997,3687,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-10,,true,,440189,3947,10,10,null,2678,23807,864
+1667994259493,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,447,0,10,10,null,0,0,0
+1667994259494,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,0,0,10,10,null,0,0,0
+1667994258495,1637,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult Congenital Heart Disease&type=specialty&zip-code=100294,200,OK,Search-Mount_Sinai 1-4,text,true,,85848,1377,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult%20Congenital%20Heart%20Disease&type=specialty&zip-code=10029,1270,0,781
+1667994260133,334,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,333,0,0
+1667994239092,3076,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-4,,true,,314940,3944,10,10,null,2668,18298,839
+1667994260467,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,443,0,10,10,null,0,0,0
+1667994260467,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,0,0,10,10,null,0,0,0
+1667994259329,1351,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology - Dermatology&type=specialty&zip-code=10657,200,OK,Search-Mount_Sinai 1-7,text,true,,27030,1374,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology%20-%20Dermatology&type=specialty&zip-code=1065,1301,0,798
+1667994260680,317,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,317,0,0
+1667994235545,2512,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-7,,true,,255163,3941,10,10,null,2409,22938,851
+1667994260997,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,442,0,10,10,null,0,0,0
+1667994260997,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,0,0,10,10,null,0,0,0
+1667994261836,440,https://www.mountsinai.org/3,200,OK,Search-Mount_Sinai 1-3,text,true,,225430,498,10,10,https://www.mountsinai.org/,401,0,49
+1667994262279,310,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,310,0,0
+1667994263551,506,https://www.mountsinai.org/2,200,OK,Search-Mount_Sinai 1-2,text,true,,225491,498,10,10,https://www.mountsinai.org/,456,0,83
+1667994263759,461,https://www.mountsinai.org/5,200,OK,Search-Mount_Sinai 1-5,text,true,,225430,498,10,10,https://www.mountsinai.org/,421,0,59
+1667994264059,273,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,272,0,0
+1667994263945,428,https://www.mountsinai.org/1,200,OK,Search-Mount_Sinai 1-1,text,true,,225491,498,10,10,https://www.mountsinai.org/,397,0,40
+1667994264224,288,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,288,0,0
+1667994264375,284,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,284,0,0
+1667994264278,470,https://www.mountsinai.org/9,200,OK,Search-Mount_Sinai 1-9,text,true,,225430,498,10,10,https://www.mountsinai.org/,433,0,56
+1667994264763,306,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,306,0,0
+1667994264691,462,https://www.mountsinai.org/8,200,OK,Search-Mount_Sinai 1-8,text,true,,225491,498,10,10,https://www.mountsinai.org/,423,0,54
+1667994265155,280,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,280,0,0
+1667994269179,2568,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Interventional Cardiology&type=specialty&zip-code=100339,200,OK,Search-Mount_Sinai 1-9,text,true,,252717,1368,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Interventional%20Cardiology&type=specialty&zip-code=10033,1574,0,809
+1667994271749,302,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,302,0,0
+1667994248443,3646,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-9,,true,,480789,3935,10,10,null,2615,19962,865
+1667994272053,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,438,0,10,10,null,0,0,0
+1667994272053,5,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,0,0,10,10,null,0,0,0
+1667994270992,2086,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric Neurology&type=specialty&zip-code=100035,200,OK,Search-Mount_Sinai 1-5,text,true,,157798,1362,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric%20Neurology&type=specialty&zip-code=10003,1552,0,801
+1667994272698,507,https://www.mountsinai.org/6,200,OK,Search-Mount_Sinai 1-6,text,true,,225430,498,10,10,https://www.mountsinai.org/,460,0,46
+1667994273208,326,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,326,0,0
+1667994273079,870,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,869,0,0
+1667994247846,3705,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-5,,true,,385870,3929,10,10,null,3130,22396,860
+1667994273949,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,432,0,10,10,null,0,0,0
+1667994273949,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,0,0,10,10,null,0,0,0
+1667994273367,1950,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Hand Surgery&type=specialty&zip-code=100032,200,OK,Search-Mount_Sinai 1-2,text,true,,177416,1355,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Hand%20Surgery&type=specialty&zip-code=10003,1252,0,766
+1667994274964,493,https://www.mountsinai.org/10,200,OK,Search-Mount_Sinai 1-10,text,true,,225491,498,10,10,https://www.mountsinai.org/,452,0,42
+1667994275317,330,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,330,0,0
+1667994248391,3059,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-2,,true,,405549,3922,10,10,null,2310,24196,849
+1667994275647,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,424,0,10,10,null,0,0,0
+1667994275647,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,0,0,10,10,null,0,0,0
+1667994275459,286,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,286,0,0
+1667994275978,500,https://www.mountsinai.org/4,200,OK,Search-Mount_Sinai 1-4,text,true,,225430,498,10,10,https://www.mountsinai.org/,450,0,52
+1667994276479,309,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,309,0,0
+1667994276500,450,https://www.mountsinai.org/7,200,OK,Search-Mount_Sinai 1-7,text,true,,225430,498,10,10,https://www.mountsinai.org/,412,0,50
+1667994276954,272,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,272,0,0
+1667994277773,1807,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child Neurology&type=specialty&zip-code=100293,200,OK,Search-Mount_Sinai 1-3,text,true,,97484,1358,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child%20Neurology&type=specialty&zip-code=10029,1334,0,825
+1667994277705,2182,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Cancer (Oncology)&type=specialty&zip-code=112348,200,OK,Search-Mount_Sinai 1-8,text,true,,196732,1360,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Cancer%20(Oncology)&type=specialty&zip-code=11234,1254,0,772
+1667994279580,378,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,378,0,0
+1667994246804,2935,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-3,,true,,325556,3925,10,10,null,2423,30219,874
+1667994279959,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,428,0,10,10,null,0,0,0
+1667994279959,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,0,0,10,10,null,0,0,0
+1667994279887,300,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,300,0,0
+1667994249547,3224,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-8,,true,,424865,3927,10,10,null,2257,27415,826
+1667994280187,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,430,0,10,10,null,0,0,0
+1667994280188,0,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,0,0,10,10,null,0,0,0
+1667994279942,1112,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand Adolescent Psychiatry&type=specialty&zip-code=100161,500,Internal Server Error,Search-Mount_Sinai 1-1,text,false,No doctor found,4594,1375,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand%20Adolescent%20Psychiatry&type=specialty&zip-code=10016,1111,0,770
+1667994281054,385,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,385,0,0
+1667994248029,2209,FAD-Search-Mount_Sinai,,"Number of samples in transaction : 6, number of failing samples : 1",Search-Mount_Sinai 1-1,,false,,232727,3942,10,10,null,2177,31201,810
+1667994281440,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,443,0,10,10,null,0,0,0
+1667994281440,0,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,0,0,10,10,null,0,0,0
+1667994280526,1358,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology - Dermatology&type=specialty&zip-code=10657,200,OK,Search-Mount_Sinai 1-7,text,true,,27030,1374,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology%20-%20Dermatology&type=specialty&zip-code=1065,1310,0,804
+1667994281885,310,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,310,0,0
+1667994260998,2390,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-7,,true,,255102,3941,10,10,null,2304,18807,854
+1667994282195,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,442,0,10,10,null,0,0,0
+1667994282195,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,0,0,10,10,null,0,0,0
+1667994284357,3332,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Bariatric Surgery&type=specialty&zip-code=100296,200,OK,Search-Mount_Sinai 1-6,text,true,,440897,1360,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Bariatric%20Surgery&type=specialty&zip-code=10029,1785,0,854
+1667994287126,585,https://www.mountsinai.org/9,200,OK,Search-Mount_Sinai 1-9,text,true,,225503,498,10,10,https://www.mountsinai.org/,489,0,50
+1667994287713,279,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,279,0,0
+1667994287690,332,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,332,0,0
+1667994257388,4497,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-6,,true,,668969,3927,10,10,null,2903,26137,900
+1667994288022,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,430,0,10,10,null,0,0,0
+1667994288022,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,0,0,10,10,null,0,0,0
+1667994286793,1325,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code= Diabetes and Bone Diseases (Endocrinology)10,200,OK,Search-Mount_Sinai 1-10,text,true,,27024,1398,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code=%20Diabetes%20and%20Bone%20Diseases%20(Endocrinology),1278,0,787
+1667994288119,307,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,307,0,0
+1667994259495,2411,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-10,,true,,255157,3965,10,10,null,2323,26520,829
+1667994288427,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,461,0,10,10,null,0,0,0
+1667994288427,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,0,0,10,10,null,0,0,0
+1667994289710,553,https://www.mountsinai.org/5,200,OK,Search-Mount_Sinai 1-5,text,true,,225430,498,10,10,https://www.mountsinai.org/,522,0,46
+1667994290265,344,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,344,0,0
+1667994291616,483,https://www.mountsinai.org/2,200,OK,Search-Mount_Sinai 1-2,text,true,,225430,498,10,10,https://www.mountsinai.org/,444,0,49
+1667994292101,332,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,332,0,0
+1667994290710,2342,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney / Pancreas Transplantation&type=specialty&zip-code=100294,200,OK,Search-Mount_Sinai 1-4,text,true,,212116,1380,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney%20/%20Pancreas%20Transplantation&type=specialty&zip-code=10029,1599,0,807
+1667994293052,316,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,316,0,0
+1667994260468,3467,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-4,,true,,440188,3947,10,10,null,2674,29434,859
+1667994293369,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,446,0,10,10,null,0,0,0
+1667994293369,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,0,0,10,10,null,0,0,0
+1667994293303,1611,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child Neurology&type=specialty&zip-code=100295,200,OK,Search-Mount_Sinai 1-5,text,true,,97484,1358,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child%20Neurology&type=specialty&zip-code=10029,1236,0,759
+1667994294917,332,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,332,0,0
+1667994273950,2840,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-5,,true,,325556,3925,10,10,null,2434,18458,805
+1667994295250,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,428,0,10,10,null,0,0,0
+1667994295250,2,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,0,0,10,10,null,0,0,0
+1667994295313,423,https://www.mountsinai.org/8,200,OK,Search-Mount_Sinai 1-8,text,true,,225430,498,10,10,https://www.mountsinai.org/,381,0,72
+1667994295739,278,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,278,0,0
+1667994295687,397,https://www.mountsinai.org/3,200,OK,Search-Mount_Sinai 1-3,text,true,,225430,498,10,10,https://www.mountsinai.org/,357,0,56
+1667994296086,317,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,317,0,0
+1667994297326,493,https://www.mountsinai.org/1,200,OK,Search-Mount_Sinai 1-1,text,true,,225491,498,10,10,https://www.mountsinai.org/,454,0,52
+1667994297821,312,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,312,0,0
+1667994297824,509,https://www.mountsinai.org/7,200,OK,Search-Mount_Sinai 1-7,text,true,,225430,498,10,10,https://www.mountsinai.org/,463,0,43
+1667994298336,357,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,357,0,0
+1667994299958,1697,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult Congenital Heart Disease&type=specialty&zip-code=100299,200,OK,Search-Mount_Sinai 1-9,text,true,,85848,1377,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult%20Congenital%20Heart%20Disease&type=specialty&zip-code=10029,1277,0,784
+1667994301657,509,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,509,0,0
+1667994272058,3070,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-9,,true,,313993,3944,10,10,null,2554,27038,834
+1667994302168,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,443,0,10,10,null,0,0,0
+1667994302168,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,0,0,10,10,null,0,0,0
+1667994301507,1483,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code= Diabetes and Bone Diseases (Endocrinology)8,200,OK,Search-Mount_Sinai 1-8,text,true,,27024,1398,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code=%20Diabetes%20and%20Bone%20Diseases%20(Endocrinology),1443,0,935
+1667994302990,311,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,310,0,0
+1667994280190,2495,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-8,,true,,255096,3965,10,10,null,2412,20614,1007
+1667994303301,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,460,0,10,10,null,0,0,0
+1667994303301,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,0,0,10,10,null,0,0,0
+1667994303450,571,https://www.mountsinai.org/6,200,OK,Search-Mount_Sinai 1-6,text,true,,225430,498,10,10,https://www.mountsinai.org/,543,0,243
+1667994304025,383,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1322,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,383,0,0
+1667994304259,581,https://www.mountsinai.org/10,200,OK,Search-Mount_Sinai 1-10,text,true,,225442,498,10,10,https://www.mountsinai.org/,526,0,53
+1667994304846,283,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,283,0,0
+1667994309248,505,https://www.mountsinai.org/4,200,OK,Search-Mount_Sinai 1-4,text,true,,225430,498,10,10,https://www.mountsinai.org/,468,0,44
+1667994309756,288,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,288,0,0
+1667994308376,2065,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric Neurology&type=specialty&zip-code=100032,200,OK,Search-Mount_Sinai 1-2,text,true,,157798,1362,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric%20Neurology&type=specialty&zip-code=10003,1324,0,812
+1667994310443,381,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,381,0,0
+1667994275649,3261,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-2,,true,,385870,3929,10,10,null,2481,31912,861
+1667994310824,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,431,0,10,10,null,0,0,0
+1667994310824,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,0,0,10,10,null,0,0,0
+1667994310583,496,https://www.mountsinai.org/5,200,OK,Search-Mount_Sinai 1-5,text,true,,225430,498,10,10,https://www.mountsinai.org/,445,0,56
+1667994311082,316,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,316,0,0
+1667994311226,1187,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand Adolescent Psychiatry&type=specialty&zip-code=100163,500,Internal Server Error,Search-Mount_Sinai 1-3,text,false,No doctor found,4594,1375,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand%20Adolescent%20Psychiatry&type=specialty&zip-code=10016,1187,0,829
+1667994311259,1384,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology - Dermatology&type=specialty&zip-code=10657,200,OK,Search-Mount_Sinai 1-7,text,true,,27030,1374,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology%20-%20Dermatology&type=specialty&zip-code=1065,1301,0,797
+1667994312414,276,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,276,0,0
+1667994279960,2177,FAD-Search-Mount_Sinai,,"Number of samples in transaction : 6, number of failing samples : 1",Search-Mount_Sinai 1-3,,false,,232666,3942,10,10,null,2137,30552,885
+1667994312691,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,443,0,10,10,null,0,0,0
+1667994312691,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,0,0,10,10,null,0,0,0
+1667994312644,314,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,314,0,0
+1667994282196,2564,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-7,,true,,255102,3941,10,10,null,2435,28200,840
+1667994312963,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,442,0,10,10,null,0,0,0
+1667994312963,0,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,0,0,10,10,null,0,0,0
+1667994311878,2259,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney / Pancreas Transplantation&type=specialty&zip-code=100291,200,OK,Search-Mount_Sinai 1-1,text,true,,212116,1380,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney%20/%20Pancreas%20Transplantation&type=specialty&zip-code=10029,1526,0,779
+1667994314137,341,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,341,0,0
+1667994281441,3405,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-1,,true,,440249,3947,10,10,null,2633,29630,831
+1667994314478,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,446,0,10,10,null,0,0,0
+1667994314479,0,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,0,0,10,10,null,0,0,0
+1667994317281,451,https://www.mountsinai.org/9,200,OK,Search-Mount_Sinai 1-9,text,true,,225430,498,10,10,https://www.mountsinai.org/,416,0,46
+1667994316488,1733,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child Neurology&type=specialty&zip-code=1002910,200,OK,Search-Mount_Sinai 1-10,text,true,,97484,1358,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child%20Neurology&type=specialty&zip-code=10029,1330,0,819
+1667994317738,542,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,542,0,0
+1667994318221,385,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,385,0,0
+1667994288428,2982,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-10,,true,,325568,3925,10,10,null,2524,27194,872
+1667994318607,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,429,0,10,10,null,0,0,0
+1667994318607,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,0,0,10,10,null,0,0,0
+1667994318873,399,https://www.mountsinai.org/8,200,OK,Search-Mount_Sinai 1-8,text,true,,225430,498,10,10,https://www.mountsinai.org/,356,0,60
+1667994319275,292,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,292,0,0
+1667994319000,1688,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult Congenital Heart Disease&type=specialty&zip-code=100296,200,OK,Search-Mount_Sinai 1-6,text,true,,85848,1377,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult%20Congenital%20Heart%20Disease&type=specialty&zip-code=10029,1305,0,802
+1667994320690,318,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,318,0,0
+1667994288023,2960,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-6,,true,,313921,3944,10,10,null,2549,30022,1045
+1667994321008,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,443,0,10,10,null,0,0,0
+1667994321008,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,0,0,10,10,null,0,0,0
+1667994321616,2024,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric Neurology&type=specialty&zip-code=100034,200,OK,Search-Mount_Sinai 1-4,text,true,,157798,1362,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric%20Neurology&type=specialty&zip-code=10003,1306,0,802
+1667994323640,276,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,276,0,0
+1667994293370,3093,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-4,,true,,385870,3929,10,10,null,2338,27451,846
+1667994323917,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,432,0,10,10,null,0,0,0
+1667994323917,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,0,0,10,10,null,0,0,0
+1667994323087,2208,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney / Pancreas Transplantation&type=specialty&zip-code=100298,200,OK,Search-Mount_Sinai 1-8,text,true,,212116,1380,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney%20/%20Pancreas%20Transplantation&type=specialty&zip-code=10029,1279,0,782
+1667994325295,309,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,309,0,0
+1667994303302,3208,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-8,,true,,440188,3947,10,10,null,2236,19094,842
+1667994325604,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,446,0,10,10,null,0,0,0
+1667994325604,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,0,0,10,10,null,0,0,0
+1667994326367,492,https://www.mountsinai.org/2,200,OK,Search-Mount_Sinai 1-2,text,true,,225430,498,10,10,https://www.mountsinai.org/,416,0,84
+1667994326863,291,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,291,0,0
+1667994326953,1226,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand Adolescent Psychiatry&type=specialty&zip-code=100165,500,Internal Server Error,Search-Mount_Sinai 1-5,text,false,No doctor found,4594,1375,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand%20Adolescent%20Psychiatry&type=specialty&zip-code=10016,1226,0,847
+1667994328180,280,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,280,0,0
+1667994295252,2318,FAD-Search-Mount_Sinai,,"Number of samples in transaction : 6, number of failing samples : 1",Search-Mount_Sinai 1-5,,false,,232666,3942,10,10,null,2267,30891,903
+1667994328461,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,443,0,10,10,null,0,0,0
+1667994328461,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,0,0,10,10,null,0,0,0
+1667994328109,364,https://www.mountsinai.org/3,200,OK,Search-Mount_Sinai 1-3,text,true,,225430,498,10,10,https://www.mountsinai.org/,335,0,44
+1667994328477,310,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,310,0,0
+1667994328428,426,https://www.mountsinai.org/7,200,OK,Search-Mount_Sinai 1-7,text,true,,225430,498,10,10,https://www.mountsinai.org/,389,0,54
+1667994328857,290,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,285,0,0
+1667994330443,504,https://www.mountsinai.org/1,200,OK,Search-Mount_Sinai 1-1,text,true,,225430,498,10,10,https://www.mountsinai.org/,453,0,55
+1667994330954,273,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,273,0,0
+1667994330737,1329,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code= Diabetes and Bone Diseases (Endocrinology)9,200,OK,Search-Mount_Sinai 1-9,text,true,,27024,1398,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code=%20Diabetes%20and%20Bone%20Diseases%20(Endocrinology),1293,0,795
+1667994332067,287,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,287,0,0
+1667994302169,2609,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-9,,true,,255096,3965,10,10,null,2538,27576,841
+1667994332354,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,460,0,10,10,null,0,0,0
+1667994332354,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,0,0,10,10,null,0,0,0
+1667994334145,428,https://www.mountsinai.org/10,200,OK,Search-Mount_Sinai 1-10,text,true,,225430,498,10,10,https://www.mountsinai.org/,390,0,46
+1667994334577,276,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,276,0,0
+1667994336434,572,https://www.mountsinai.org/6,200,OK,Search-Mount_Sinai 1-6,text,true,,225398,498,10,10,https://www.mountsinai.org/,529,0,41
+1667994337028,306,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,926,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,306,0,0
+1667994338938,459,https://www.mountsinai.org/4,200,OK,Search-Mount_Sinai 1-4,text,true,,225429,498,10,10,https://www.mountsinai.org/,411,0,57
+1667994339399,274,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,274,0,0
+1667994338550,1419,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code= Diabetes and Bone Diseases (Endocrinology)6,200,OK,Search-Mount_Sinai 1-6,text,true,,27024,1398,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Endocrine&type=specialty&zip-code=%20Diabetes%20and%20Bone%20Diseases%20(Endocrinology),1362,0,836
+1667994339970,284,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,1233,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,284,0,0
+1667994321009,2581,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-6,,true,,255064,4055,10,10,null,2481,16663,877
+1667994340254,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,460,0,10,10,null,0,0,0
+1667994340254,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,0,0,10,10,null,0,0,0
+1667994340766,466,https://www.mountsinai.org/8,200,OK,Search-Mount_Sinai 1-8,text,true,,225361,498,10,10,https://www.mountsinai.org/,417,0,49
+1667994341234,300,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,926,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,300,0,0
+1667994341782,1366,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology - Dermatology&type=specialty&zip-code=10652,200,OK,Search-Mount_Sinai 1-2,text,true,,27030,1374,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology%20-%20Dermatology&type=specialty&zip-code=1065,1328,0,813
+1667994343148,490,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,490,0,0
+1667994310825,2639,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-2,,true,,255102,3941,10,10,null,2525,30173,897
+1667994343639,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,441,0,10,10,null,0,0,0
+1667994343639,2,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,0,0,10,10,null,0,0,0
+1667994342789,1653,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult Congenital Heart Disease&type=specialty&zip-code=100293,200,OK,Search-Mount_Sinai 1-3,text,true,,85848,1377,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult%20Congenital%20Heart%20Disease&type=specialty&zip-code=10029,1267,0,779
+1667994344442,287,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,287,0,0
+1667994312692,2614,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-3,,true,,313920,3944,10,10,null,2199,29422,823
+1667994344729,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,443,0,10,10,null,0,0,0
+1667994344729,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,0,0,10,10,null,0,0,0
+1667994344312,423,https://www.mountsinai.org/5,200,OK,Search-Mount_Sinai 1-5,text,true,,225479,498,10,10,https://www.mountsinai.org/,384,0,52
+1667994343131,1823,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child Neurology&type=specialty&zip-code=100297,200,OK,Search-Mount_Sinai 1-7,text,true,,97484,1358,10,10,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child%20Neurology&type=specialty&zip-code=10029,1352,0,831
+1667994344737,486,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,881,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,486,0,0
+1667994344954,277,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth7,200,OK,Search-Mount_Sinai 1-7,text,true,,1321,1188,10,10,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,277,0,0
+1667994312964,2816,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-7,,true,,325556,3925,10,10,null,2303,29450,885
+1667994345231,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,428,0,10,10,null,0,0,0
+1667994345232,0,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-7,text,true,,0,0,10,10,null,0,0,0
+1667994343433,1925,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric Neurology&type=specialty&zip-code=100031,200,OK,Search-Mount_Sinai 1-1,text,true,,157798,1362,9,9,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric%20Neurology&type=specialty&zip-code=10003,1280,0,788
+1667994345357,299,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,1188,9,9,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,299,0,0
+1667994314480,3001,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-1,,true,,385870,3929,9,9,null,2305,28174,843
+1667994345656,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,432,0,9,9,null,0,0,0
+1667994345656,3,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,0,0,9,9,null,0,0,0
+1667994344328,2334,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney / Pancreas Transplantation&type=specialty&zip-code=100294,200,OK,Search-Mount_Sinai 1-4,text,true,,212116,1380,9,9,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Kidney%20/%20Pancreas%20Transplantation&type=specialty&zip-code=10029,1366,0,836
+1667994346666,299,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,1188,9,9,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,299,0,0
+1667994323919,3366,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-4,,true,,440187,3947,9,9,null,2350,19680,893
+1667994346968,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,446,0,9,9,null,0,0,0
+1667994346968,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,0,0,9,9,null,0,0,0
+1667994347595,425,https://www.mountsinai.org/9,200,OK,Search-Mount_Sinai 1-9,text,true,,226511,498,9,9,https://www.mountsinai.org/,388,0,51
+1667994348022,275,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,881,9,9,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,275,0,0
+1667994346598,1714,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult Congenital Heart Disease&type=specialty&zip-code=100295,200,OK,Search-Mount_Sinai 1-5,text,true,,85848,1377,9,9,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Adult%20Congenital%20Heart%20Disease&type=specialty&zip-code=10029,1286,0,791
+1667994348314,284,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth5,200,OK,Search-Mount_Sinai 1-5,text,true,,1321,1188,9,9,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,284,0,0
+1667994328462,2907,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-5,,true,,313969,3944,9,9,null,2440,17228,843
+1667994348599,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,443,0,9,9,null,0,0,0
+1667994348599,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-5,text,true,,0,0,9,9,null,0,0,0
+1667994349417,1261,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand Adolescent Psychiatry&type=specialty&zip-code=1001610,500,Internal Server Error,Search-Mount_Sinai 1-10,text,false,No doctor found,4594,1375,8,8,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand%20Adolescent%20Psychiatry&type=specialty&zip-code=10016,1261,0,825
+1667994350679,386,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth10,200,OK,Search-Mount_Sinai 1-10,text,true,,1321,1188,8,8,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,386,0,0
+1667994318608,2351,FAD-Search-Mount_Sinai,,"Number of samples in transaction : 6, number of failing samples : 1",Search-Mount_Sinai 1-10,,false,,232666,3942,8,8,null,2313,30104,871
+1667994351065,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,444,0,8,8,null,0,0,0
+1667994351065,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-10,text,true,,0,0,8,8,null,0,0,0
+1667994353075,1358,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology - Dermatology&type=specialty&zip-code=10658,200,OK,Search-Mount_Sinai 1-8,text,true,,27030,1374,7,7,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Dermatopathology%20-%20Dermatology&type=specialty&zip-code=1065,1309,0,804
+1667994354433,315,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth8,200,OK,Search-Mount_Sinai 1-8,text,true,,1321,1233,7,7,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,315,0,0
+1667994325605,2439,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-8,,true,,255033,4031,7,7,null,2341,26702,853
+1667994354748,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,442,0,7,7,null,0,0,0
+1667994354748,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-8,text,true,,0,0,7,7,null,0,0,0
+1667994356109,477,https://www.mountsinai.org/6,200,OK,Search-Mount_Sinai 1-6,text,true,,225490,498,6,6,https://www.mountsinai.org/,428,0,53
+1667994356588,286,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,881,6,6,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,286,0,0
+1667994356778,1653,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child Neurology&type=specialty&zip-code=100299,200,OK,Search-Mount_Sinai 1-9,text,true,,97484,1358,6,6,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Child%20Neurology&type=specialty&zip-code=10029,1263,0,774
+1667994358431,635,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth9,200,OK,Search-Mount_Sinai 1-9,text,true,,1321,1188,6,6,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,635,0,0
+1667994332355,2988,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-9,,true,,326637,3925,6,6,null,2561,23721,825
+1667994359067,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,428,0,6,6,null,0,0,0
+1667994359067,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-9,text,true,,0,0,6,6,null,0,0,0
+1667994359155,521,https://www.mountsinai.org/2,200,OK,Search-Mount_Sinai 1-2,text,true,,225490,498,5,5,https://www.mountsinai.org/,458,0,80
+1667994359680,491,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,881,5,5,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,491,0,0
+1667994360218,418,https://www.mountsinai.org/3,200,OK,Search-Mount_Sinai 1-3,text,true,,225490,498,5,5,https://www.mountsinai.org/,388,0,41
+1667994360638,308,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,881,5,5,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,308,0,0
+1667994361441,680,https://www.mountsinai.org/1,200,OK,Search-Mount_Sinai 1-1,text,true,,225490,498,5,5,https://www.mountsinai.org/,448,0,63
+1667994362125,305,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,881,5,5,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,305,0,0
+1667994362641,484,https://www.mountsinai.org/4,200,OK,Search-Mount_Sinai 1-4,text,true,,225490,498,5,5,https://www.mountsinai.org/,445,0,52
+1667994363128,325,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,881,5,5,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,325,0,0
+1667994366211,2186,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Cancer (Oncology)&type=specialty&zip-code=112344,200,OK,Search-Mount_Sinai 1-4,text,true,,196732,1360,5,5,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Cancer%20(Oncology)&type=specialty&zip-code=11234,1278,0,785
+1667994368397,365,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth4,200,OK,Search-Mount_Sinai 1-4,text,true,,1321,1188,5,5,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,365,0,0
+1667994346969,3360,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-4,,true,,424864,3927,5,5,null,2413,18433,837
+1667994368763,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,430,0,5,5,null,0,0,0
+1667994368763,4,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-4,text,true,,0,0,5,5,null,0,0,0
+1667994367994,1129,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand Adolescent Psychiatry&type=specialty&zip-code=100162,500,Internal Server Error,Search-Mount_Sinai 1-2,text,false,No doctor found,4594,1375,4,4,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Childand%20Adolescent%20Psychiatry&type=specialty&zip-code=10016,1129,0,778
+1667994369123,281,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,1188,4,4,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,281,0,0
+1667994343641,2422,FAD-Search-Mount_Sinai,,"Number of samples in transaction : 6, number of failing samples : 1",Search-Mount_Sinai 1-2,,false,,232726,3942,4,4,null,2359,23343,858
+1667994369406,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,442,0,4,4,null,0,0,0
+1667994369406,4,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,0,0,4,4,null,0,0,0
+1667994371482,2090,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric Neurology&type=specialty&zip-code=100036,200,OK,Search-Mount_Sinai 1-6,text,true,,157798,1362,4,4,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Pediatric%20Neurology&type=specialty&zip-code=10003,1335,0,820
+1667994373572,278,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth6,200,OK,Search-Mount_Sinai 1-6,text,true,,1321,1188,4,4,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,278,0,0
+1667994340255,3131,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-6,,true,,385930,3929,4,4,null,2327,30464,873
+1667994373850,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,432,0,4,4,null,0,0,0
+1667994373850,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-6,text,true,,0,0,4,4,null,0,0,0
+1667994372502,2532,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Interventional Cardiology&type=specialty&zip-code=100331,200,OK,Search-Mount_Sinai 1-1,text,true,,252717,1368,3,3,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Interventional%20Cardiology&type=specialty&zip-code=10033,1559,0,786
+1667994375036,298,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth1,200,OK,Search-Mount_Sinai 1-1,text,true,,1321,1188,3,3,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,298,0,0
+1667994345659,3815,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-1,,true,,480849,3935,3,3,null,2610,25858,849
+1667994375334,1,Debug Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,438,0,3,3,null,0,0,0
+1667994375335,0,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-1,text,true,,0,0,3,3,null,0,0,0
+1667994376448,2057,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Hand Surgery&type=specialty&zip-code=100033,200,OK,Search-Mount_Sinai 1-3,text,true,,177416,1355,2,2,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Hand%20Surgery&type=specialty&zip-code=10003,1313,0,805
+1667994378506,358,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth3,200,OK,Search-Mount_Sinai 1-3,text,true,,1321,1188,2,2,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,358,0,0
+1667994344732,3141,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-3,,true,,405548,3922,2,2,null,2367,30989,846
+1667994378864,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,425,0,2,2,null,0,0,0
+1667994378864,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-3,text,true,,0,0,2,2,null,0,0,0
+1667994384953,523,https://www.mountsinai.org/2,200,OK,Search-Mount_Sinai 1-2,text,true,,225479,498,1,1,https://www.mountsinai.org/,486,0,41
+1667994385478,279,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1320,881,1,1,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,279,0,0
+1667994392772,3182,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Bariatric Surgery&type=specialty&zip-code=100292,200,OK,Search-Mount_Sinai 1-2,text,true,,440897,1360,1,1,https://doctor.mountsinai.org/find-a-doctor/result?search-term=Bariatric%20Surgery&type=specialty&zip-code=10029,1681,0,787
+1667994395958,284,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth2,200,OK,Search-Mount_Sinai 1-2,text,true,,1321,1188,1,1,https://www.mountsinai.org/mshealth/services/alert/get?site=mshealth,284,0,0
+1667994369410,4268,FAD-Search-Mount_Sinai,200,"Number of samples in transaction : 6, number of failing samples : 0",Search-Mount_Sinai 1-2,,true,,669017,3927,1,1,null,2730,22564,828
+1667994396243,0,Debug Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,429,0,1,1,null,0,0,0
+1667994396243,1,BeanShell Sampler,200,OK,Search-Mount_Sinai 1-2,text,true,,0,0,1,1,null,0,0,0
