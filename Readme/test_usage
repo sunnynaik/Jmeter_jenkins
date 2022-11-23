@@ -1,0 +1,4 @@
+Jmeter api built for mount_sinai.org customer 
+jmeter version used 5.5 with latest plugins
+jenkins CI server [http://10.53.97.119:8080/] 
+description "Jmeter jenkins solution integrates with performance publisher plugin and performance trend"
