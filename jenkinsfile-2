@@ -6,8 +6,8 @@ pipeline {
         stage('build') {
             steps {
                 
-                sh 'cd bin'
-                sh 'sudo jmeter -n -t ./Mount_Sinai/MountSinai_FAD_v01.jmx -l ./Mount_Sinai/MountSinai_FAD_v04.jtl'
+                sh 'cd bin/Mount_Sinai'
+                sh 'sudo jmeter -n -t MountSinai_FAD_v01.jmx -l MountSinai_FAD_v04.jtl'
 		
 		
 
