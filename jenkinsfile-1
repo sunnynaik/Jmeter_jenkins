@@ -10,15 +10,20 @@ pipeline {
 		   dir("bin") {
 			    sh "pwd"
 			    sh 'java -jar ApacheJMeter.jar -J jmeter.save.saveservice.output_format=${service_format} -n -t ./Mount_Sinai/MountSinai_FAD_v01.jmx -l ./Mount_Sinai/MountSinai_FAD_v04.jtl -e -o MountSinai_FAD_v04_testreport_run2.html'
-			sh 'java -jar ApacheJMeter.jar -J jmeter.save.saveservice.output_format=${service_format} -n -t ./Mount_Sinai/Mount_Sinai_FindDoctor.jmx -l ./Mount_Sinai/Mount_Sinai_FindDoctor_v04.jtl -e -o MountSinai_FindDoctor_v04_testreport_run2.html'
-			sh 'java -jar ApacheJMeter.jar -J jmeter.save.saveservice.output_format=${service_format} -n -t ./Mount_Sinai/Mount_Sinai_OurLocations.jmx -l ./Mount_Sinai/Mount_Sinai_OurLocations_v04.jtl -e -o Mount_Sinai_OurLocations_v04_testreport_run2.html'
-			sh 'java -jar ApacheJMeter.jar -J jmeter.save.saveservice.output_format=${service_format} -n -t ./Mount_Sinai/Mount_Sinai_PatientCare.jmx -l ./Mount_Sinai/Mount_Sinai_PatientCare_v04.jtl -e -o Mount_Sinai_PatientCare_v04_testreport_run2.html'
+				sh 'java -jar ApacheJMeter.jar -J jmeter.save.saveservice.output_format=${service_format} -n -t ./Mount_Sinai/Mount_Sinai_FindDoctor.jmx -l ./Mount_Sinai/Mount_Sinai_FindDoctor_v04.jtl -e -o MountSinai_FindDoctor_v04_testreport_run2.html'
+				sh 'java -jar ApacheJMeter.jar -J jmeter.save.saveservice.output_format=${service_format} -n -t ./Mount_Sinai/Mount_Sinai_OurLocations.jmx -l ./Mount_Sinai/Mount_Sinai_OurLocations_v04.jtl -e -o Mount_Sinai_OurLocations_v04_testreport_run2.html'
+				sh 'java -jar ApacheJMeter.jar -J jmeter.save.saveservice.output_format=${service_format} -n -t ./Mount_Sinai/Mount_Sinai_PatientCare.jmx -l ./Mount_Sinai/Mount_Sinai_PatientCare_v04.jtl -e -o Mount_Sinai_PatientCare_v04_testreport_run2.html'
 			}
 		
               
             }
     
-}
+	}
+	 post { 
+		always { 
+		    cleanWs()
+		}
+    	}
 }
     
 }
