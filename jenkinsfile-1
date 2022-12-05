@@ -7,6 +7,7 @@ pipeline {
             steps {
                 
                 sh 'cd bin'
+		sh 'pwd'
                sh 'java -jar ApacheJMeter.jar -J jmeter.save.saveservice.output_format=${service_format} -n -t ./Mount_Sinai/MountSinai_FAD_v01.jmx -l ./Mount_Sinai/MountSinai_FAD_v04.jtl -e -o MountSinai_FAD_v04_testreport_run2.html'
 		
 
